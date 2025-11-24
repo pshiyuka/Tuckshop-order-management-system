@@ -2,6 +2,7 @@ import java.sql.*;
 
 public class MenuItem {
     // Private attributes
+
     private String name;
     private double price;
     private int stock;
